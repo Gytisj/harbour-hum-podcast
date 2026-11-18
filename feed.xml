@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harbour Hum</title>
+    <link>https://gytisj.github.io/harbour-hum-podcast/</link>
+    <atom:link href="https://gytisj.github.io/harbour-hum-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Tiny stories and small talk from a quiet harbour. A test show, not a real podcast.</description>
+    <language>en-us</language>
+    <copyright>Harbour Hum</copyright>
+    <itunes:author>Harbour Hum</itunes:author>
+    <itunes:summary>Tiny stories and small talk from a quiet harbour. A test show, not a real podcast.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Harbour Hum</itunes:name>
+      <itunes:email>gytis.juozenas+harbourhum@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://gytisj.github.io/harbour-hum-podcast/cover.jpg" />
+    <image>
+      <url>https://gytisj.github.io/harbour-hum-podcast/cover.jpg</url>
+      <title>Harbour Hum</title>
+      <link>https://gytisj.github.io/harbour-hum-podcast/</link>
+    </image>
+    <itunes:category text="Arts" />
+
+    <item>
+      <title>The Lighthouse Keeper's Spoons</title>
+      <guid isPermaLink="false">harbour-hum-e03</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+      <description>A short story about a lighthouse keeper who collects spoons.</description>
+      <enclosure url="https://gytisj.github.io/harbour-hum-podcast/ep3.m4a" length="55824" type="audio/x-m4a" />
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Why Ropes Are Always Wet</title>
+      <guid isPermaLink="false">harbour-hum-e02</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+      <description>The ferry is late again, so we talk about ropes.</description>
+      <enclosure url="https://gytisj.github.io/harbour-hum-podcast/ep2.m4a" length="57460" type="audio/x-m4a" />
+      <itunes:duration>00:00:06</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Gulls and Fog</title>
+      <guid isPermaLink="false">harbour-hum-e01</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
+      <description>We listen to the gulls and talk about fog.</description>
+      <enclosure url="https://gytisj.github.io/harbour-hum-podcast/ep1.m4a" length="55044" type="audio/x-m4a" />
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
